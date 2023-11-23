@@ -1,0 +1,13 @@
+button {
+    width: 100%;
+
+}
+.button-container {
+    margin: 20px;
+    background-color: rgb(239, 119, 14);
+    width:30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
